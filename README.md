@@ -23,5 +23,5 @@
 ### 开发项目
 |项目英文名|项目中文名|所属范围|介绍|语言|状态|
 |---|---|---|---|---|---|
-|Diemessage|死亡消息|spigot插件|可以修改原版死亡消息|Java|更新中:white_check_mark:
-|YzdPassWordFree|宇之大免密|spigot插件|基于ip的免密登录|Java|更新中:white_check_mark:
+|Diemessage|死亡消息|spigot插件|可以修改原版死亡消息|Java|慢速维护:arrow_up_small:
+|YzdPassWordFree|宇之大免密|spigot插件|基于ip的免密登录|Java|慢速维护:arrow_up_small:
