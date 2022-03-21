@@ -25,3 +25,4 @@
 |---|---|---|---|---|---|
 |Diemessage|死亡消息|spigot插件|可以修改原版死亡消息|Java|慢速维护:arrow_up_small:
 |YzdPassWordFree|宇之大免密|spigot插件|基于ip的免密登录|Java|慢速维护:arrow_up_small:
+|NoAdvertisement|广告屏蔽|spigot插件|屏蔽聊天群的广告|Java|慢速维护:arrow_up_small:
