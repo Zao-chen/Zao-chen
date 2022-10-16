@@ -25,6 +25,7 @@
 ### 开发项目
 |项目英文名|项目中文名|所属范围|介绍|语言|状态|
 |---|---|---|---|---|---|
+|ZcJsonGeneratore|基岩版文本json生成|软件|生成基岩版的json文本|C++&Qt|慢速维护:arrow_up_small:
 |Diemessage|死亡消息|spigot插件|可以修改原版死亡消息|Java|慢速维护:arrow_up_small:
 |YzdPassWordFree|宇之大免密|spigot插件|基于ip的免密登录|Java|慢速维护:arrow_up_small:
 |NoAdvertisement|广告屏蔽|spigot插件|屏蔽聊天群的广告|Java|慢速维护:arrow_up_small:
