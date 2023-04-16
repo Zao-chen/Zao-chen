@@ -27,7 +27,7 @@
 ### 开发项目
 |项目英文名|项目中文名|所属范围|介绍|语言|状态|
 |---|---|---|---|---|---|
-|ZcExecuteHelper|基岩版execute格式迁移|?|基岩版execute格式迁移|?|新建文件夹:joy:
+|ZcCommandEditor|命令组编辑器|?|一个叫命令组的全新概念|?|开发中:joy:
 |ZcJsonGeneratore|基岩版文本json生成|软件|生成基岩版的json文本|C++&Qt|慢速维护:arrow_up_small:
 |Diemessage|死亡消息|spigot插件|可以修改原版死亡消息|Java|慢速维护:arrow_up_small:
 |YzdPassWordFree|宇之大免密|spigot插件|基于ip的免密登录|Java|慢速维护:arrow_up_small:
