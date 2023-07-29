@@ -11,14 +11,16 @@
 - C++（学习中）
 - Qt（学习中）
 - ue5（学习中）
+- kt（学习中）
+- Java（学习中）
 - Python（放弃）
-- Java（放弃）
 - ~~易语言~~
 
 ---
 ### 制作方向
 - :ram: C++&Qt写的一些乱七八糟的的玩意
 - :star: ue5开发独立游戏
+- 🍮: android写的小玩意
 - :orange_book: ~~Minecraft的Bukkit/spigot服务端插件~~（退坑）
 - :meat_on_bone: ~~易语言乱写的东西~~
 
