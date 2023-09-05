@@ -25,7 +25,6 @@
 - :star: ue5开发独立游戏
 - 🍮 android写的小玩意
 - 🔌 Minecraft Bukkit/Spigot插件
-- :orange_book: ~~Minecraft的Bukkit/spigot服务端插件~~（退坑）
 - :meat_on_bone: ~~易语言乱写的东西~~
 
 ---
