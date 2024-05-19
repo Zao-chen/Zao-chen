@@ -36,3 +36,6 @@
 |Diemessage|死亡消息|spigot插件|可以修改原版死亡消息|Java|停止维护 :red_circle:
 |YzdPassWordFree|宇之大免密|spigot插件|基于ip的免密登录|Java|停止维护 :red_circle:
 |NoAdvertisement|广告屏蔽|spigot插件|屏蔽聊天群的广告|Java|停止维护 :red_circle:
+
+---
+[buy me a coffee](https://afdian.net/a/Zao_chen)
