@@ -38,4 +38,4 @@
 |NoAdvertisement|广告屏蔽|spigot插件|屏蔽聊天群的广告|Java|停止维护 :red_circle:
 
 ---
-[buy me a coffee](https://afdian.net/a/Zao_chen)
+[buy me a coffee :coffee: ](https://afdian.com/a/Zao_chen)
