@@ -40,4 +40,7 @@
 |NoAdvertisement|广告屏蔽|spigot插件|屏蔽聊天群的广告|Java|停止维护 :red_circle:
 
 ---
+
+[个人博客](https://zao-chen.github.io/)
+
 [buy me a coffee :coffee: ](https://afdian.com/a/Zao_chen)
