@@ -2,8 +2,6 @@
 
 ### 实时概况：
 
-
-
 | <img align="right" src="https://github-readme-stats.vercel.app/api?username=Zao-chen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zao-chen&layout=compact"> |
 | :----: | :----: |
 | ![Zao_chen](https://count.getloli.com/get/@Zao_chen) | <a href="http://bgm.tv/user/660952"><img src="http://bgm.tv/chart/img/660952" border="0" alt="早晨呐 的个人主页" /></a> |
@@ -26,18 +24,6 @@
 - 🍮 android写的小玩意
 - 🔌 Minecraft Bukkit/Spigot插件
 - :meat_on_bone: ~~易语言乱写的东西~~
-
----
-### 开发项目
-|项目英文名|项目中文名|所属范围|介绍|语言|状态|
-|---|---|---|---|---|---|
-|ZcChat|ai桌宠|软件|适合于galgame角色的ai桌宠|C++&Qt|开发中 :white_check_mark:
-|ZcAnimeDanmiTool|番剧弹幕获取工具|软件|获取番剧网络弹幕并添加到本地文件|C++&Qt|开发中 :white_check_mark:
-|ZcCommandEditor|命令组编辑器|软件|一个叫命令组的全新概念|C++&Qt|开发中 :white_check_mark:
-|ZcJsonGeneratore|基岩版文本json生成|软件|生成基岩版的json文本|C++&Qt|慢速维护 :arrow_up_small:
-|Diemessage|死亡消息|spigot插件|可以修改原版死亡消息|Java|停止维护 :red_circle:
-|YzdPassWordFree|宇之大免密|spigot插件|基于ip的免密登录|Java|停止维护 :red_circle:
-|NoAdvertisement|广告屏蔽|spigot插件|屏蔽聊天群的广告|Java|停止维护 :red_circle:
 
 ---
 
