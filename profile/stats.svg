@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">GreaoZaochen's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 612, Total Commits  (last year) : 307, Total PRs: 24, Total Issues: 39, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 614, Total Commits  (last year) : 309, Total PRs: 24, Total Issues: 39, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 90.78565480437656;
+        stroke-dashoffset: 90.66770994336515;
       }
     }
   
@@ -148,7 +148,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >612</text>
+      >614</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -163,7 +163,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >307</text>
+      >309</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
