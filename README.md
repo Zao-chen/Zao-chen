@@ -10,7 +10,7 @@
 
 ---
 
-### 💻 Programming Languages
+### 💻 Languages
 
 #### 🚀 Active
 - **C++ Ecosystem** — Qt (GUI) · Unreal Engine 5 (Game Development)
@@ -26,12 +26,12 @@
 
 - 🐏 **C++ / Qt Projects** — Experimental tools & desktop apps
 - ⭐ **Indie Game Development** — Building games with UE5
-- 🍮 **Android Apps** — Small utilities & widgets
+- 🍮 **Cross-platform Apps** — Small utilities & widgets
 - 🔌 **Minecraft Plugins** — Bukkit / Spigot
 
 ---
 
 ### 🌐 Links
 
-- 🌍 [Blog(Chinese)](https://zao-chen.github.io/)
+- 🌍 [Blog](https://zao-chen.github.io/)
 - ☕ [Buy me a coffee](https://afdian.com/a/Zao_chen)
